@@ -1,1 +1,2 @@
 # Titanic-Survival-Prediction
+This project explores the prediction of passenger survival on the Titanic using an XGBoost classifier. It includes data preprocessing, feature engineering (e.g., creating 'FamilySize' and 'IsAlone' features), hyperparameter tuning using GridSearchCV, and model evaluation with cross-validation. The model achieves high accuracy and provides insights into the factors influencing survival.
